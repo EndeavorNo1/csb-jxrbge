@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://endeavorno1.github.io/csb-jxrbge/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://endeavorno1.github.io/csb-jxrbge/static/js/main.5482afaf.chunk.js",
+    "main.js.map": "https://endeavorno1.github.io/csb-jxrbge/static/js/main.5482afaf.chunk.js.map",
+    "runtime-main.js": "https://endeavorno1.github.io/csb-jxrbge/static/js/runtime-main.c9bf01ad.js",
+    "runtime-main.js.map": "https://endeavorno1.github.io/csb-jxrbge/static/js/runtime-main.c9bf01ad.js.map",
+    "static/js/2.9439a5ce.chunk.js": "https://endeavorno1.github.io/csb-jxrbge/static/js/2.9439a5ce.chunk.js",
+    "static/js/2.9439a5ce.chunk.js.map": "https://endeavorno1.github.io/csb-jxrbge/static/js/2.9439a5ce.chunk.js.map",
+    "index.html": "https://endeavorno1.github.io/csb-jxrbge/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://endeavorno1.github.io/csb-jxrbge/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.9439a5ce.chunk.js.LICENSE.txt": "https://endeavorno1.github.io/csb-jxrbge/static/js/2.9439a5ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9bf01ad.js",
+    "static/js/2.9439a5ce.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.5482afaf.chunk.js"
+  ]
+}
